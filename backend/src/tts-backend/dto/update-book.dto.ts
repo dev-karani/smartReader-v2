@@ -1,4 +1,6 @@
 export class UpdateBookDto{
-    docname:string
-    size:string
+    docname: string
+    doctype:string
+    size: string
+    genre:string
 }
